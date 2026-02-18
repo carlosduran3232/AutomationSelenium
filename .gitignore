@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+node_modules/
+
+# IntelliJ / VSCode
+.idea/
+*.iml
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# Reports
+reports/
+target/
+
+# Test output
+allure-results/
+
